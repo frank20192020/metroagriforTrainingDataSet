@@ -1,0 +1,963 @@
+temperature,humidity,category
+0,5,critical dry
+1,5,critical dry
+2,5,critical dry
+3,5,critical dry
+4,5,critical dry
+5,5,critical dry
+6,5,critical dry
+7,5,critical dry
+8,5,critical dry
+9,5,critical dry
+10,5,critical dry
+11,5,critical dry
+12,5,critical dry
+13,5,critical dry
+14,5,critical dry
+15,5,critical dry
+16,5,critical dry
+17,5,critical dry
+18,5,critical dry
+19,5,critical dry
+20,5,critical dry
+21,5,critical dry
+22,5,critical dry
+23,5,critical dry
+24,5,critical dry
+25,5,critical dry
+26,5,critical dry
+27,5,critical dry
+28,5,critical dry
+29,5,critical dry
+30,5,critical dry
+31,5,critical dry
+32,5,critical dry
+33,5,critical dry
+34,5,critical dry
+35,5,critical dry
+36,5,critical dry
+37,5,critical dry
+38,5,critical dry
+39,5,critical dry
+40,5,critical dry
+41,5,critical dry
+42,5,critical dry
+43,5,critical dry
+44,5,critical dry
+45,5,critical dry
+46,5,critical dry
+47,5,critical dry
+0,10,critical dry
+1,10,critical dry
+2,10,critical dry
+3,10,critical dry
+4,10,critical dry
+5,10,critical dry
+6,10,critical dry
+7,10,critical dry
+8,10,critical dry
+9,10,critical dry
+10,10,critical dry
+11,10,critical dry
+12,10,critical dry
+13,10,critical dry
+14,10,critical dry
+15,10,critical dry
+16,10,critical dry
+17,10,critical dry
+18,10,critical dry
+19,10,critical dry
+20,10,critical dry
+21,10,critical dry
+22,10,critical dry
+23,10,critical dry
+24,10,critical dry
+25,10,critical dry
+26,10,critical dry
+27,10,critical dry
+28,10,critical dry
+29,10,critical dry
+30,10,critical dry
+31,10,critical dry
+32,10,critical dry
+33,10,critical dry
+34,10,critical dry
+35,10,critical dry
+36,10,critical dry
+37,10,critical dry
+38,10,critical dry
+39,10,critical dry
+40,10,critical dry
+41,10,critical dry
+42,10,critical dry
+43,10,critical dry
+44,10,critical dry
+45,10,critical dry
+46,10,critical dry
+47,10,critical dry
+0,15,critical dry
+1,15,critical dry
+2,15,critical dry
+3,15,critical dry
+4,15,critical dry
+5,15,critical dry
+6,15,critical dry
+7,15,critical dry
+8,15,critical dry
+9,15,critical dry
+10,15,critical dry
+11,15,critical dry
+12,15,critical dry
+13,15,critical dry
+14,15,critical dry
+15,15,critical dry
+16,15,critical dry
+17,15,critical dry
+18,15,critical dry
+19,15,critical dry
+20,15,critical dry
+21,15,critical dry
+22,15,critical dry
+23,15,critical dry
+24,15,critical dry
+25,15,critical dry
+26,15,critical dry
+27,15,critical dry
+28,15,critical dry
+29,15,critical dry
+30,15,critical dry
+31,15,critical dry
+32,15,critical dry
+33,15,critical dry
+34,15,critical dry
+35,15,critical dry
+36,15,critical dry
+37,15,critical dry
+38,15,critical dry
+39,15,critical dry
+40,15,critical dry
+41,15,critical dry
+42,15,critical dry
+43,15,critical dry
+44,15,critical dry
+45,15,critical dry
+46,15,critical dry
+47,15,critical dry
+0,20,critical dry
+1,20,critical dry
+2,20,critical dry
+3,20,critical dry
+4,20,critical dry
+5,20,critical dry
+6,20,critical dry
+7,20,critical dry
+8,20,critical dry
+9,20,critical dry
+10,20,critical dry
+11,20,critical dry
+12,20,critical dry
+13,20,critical dry
+14,20,critical dry
+15,20,critical dry
+16,20,critical dry
+17,20,critical dry
+18,20,critical dry
+19,20,critical dry
+20,20,critical dry
+21,20,critical dry
+22,20,critical dry
+23,20,critical dry
+24,20,critical dry
+25,20,critical dry
+26,20,critical dry
+27,20,critical dry
+28,20,critical dry
+29,20,critical dry
+30,20,critical dry
+31,20,critical dry
+32,20,critical dry
+33,20,critical dry
+34,20,critical dry
+35,20,critical dry
+36,20,critical dry
+37,20,critical dry
+38,20,critical dry
+39,20,critical dry
+40,20,critical dry
+41,20,critical dry
+42,20,critical dry
+43,20,critical dry
+44,20,critical dry
+45,20,critical dry
+46,20,critical dry
+47,20,critical dry
+0,25,critical dry
+1,25,critical dry
+2,25,critical dry
+3,25,critical dry
+4,25,critical dry
+5,25,critical dry
+6,25,critical dry
+7,25,critical dry
+8,25,critical dry
+9,25,critical dry
+10,25,critical dry
+11,25,critical dry
+12,25,critical dry
+13,25,critical dry
+14,25,critical dry
+15,25,critical dry
+16,25,critical dry
+17,25,critical dry
+18,25,critical dry
+19,25,critical dry
+20,25,critical dry
+21,25,critical dry
+22,25,critical dry
+23,25,critical dry
+24,25,critical dry
+25,25,critical dry
+26,25,critical dry
+27,25,critical dry
+28,25,critical dry
+29,25,critical dry
+30,25,critical dry
+31,25,critical dry
+32,25,critical dry
+33,25,critical dry
+34,25,critical dry
+35,25,critical dry
+36,25,critical dry
+37,25,critical dry
+38,25,critical dry
+39,25,critical dry
+40,25,critical dry
+41,25,critical dry
+42,25,critical dry
+43,25,critical dry
+44,25,critical dry
+45,25,critical dry
+46,25,critical dry
+47,25,critical dry
+0,30,critical dry
+1,30,critical dry
+2,30,critical dry
+3,30,critical dry
+4,30,critical dry
+5,30,critical dry
+6,30,critical dry
+7,30,critical dry
+8,30,critical dry
+9,30,critical dry
+10,30,critical dry
+11,30,critical dry
+12,30,critical dry
+13,30,critical dry
+14,30,critical dry
+15,30,critical dry
+16,30,critical dry
+17,30,critical dry
+18,30,critical dry
+19,30,critical dry
+20,30,critical dry
+21,30,critical dry
+22,30,critical dry
+23,30,critical dry
+24,30,critical dry
+25,30,critical dry
+26,30,critical dry
+27,30,critical dry
+28,30,critical dry
+29,30,critical dry
+30,30,critical dry
+31,30,critical dry
+32,30,critical dry
+33,30,critical dry
+34,30,critical dry
+35,30,critical dry
+36,30,critical dry
+37,30,critical dry
+38,30,critical dry
+39,30,critical dry
+40,30,critical dry
+41,30,critical dry
+42,30,critical dry
+43,30,critical dry
+44,30,critical dry
+45,30,critical dry
+46,30,critical dry
+47,30,critical dry
+0,35,critical dry
+1,35,critical dry
+2,35,critical dry
+3,35,critical dry
+4,35,critical dry
+5,35,critical dry
+6,35,critical dry
+7,35,critical dry
+8,35,critical dry
+9,35,critical dry
+10,35,critical dry
+11,35,critical dry
+12,35,critical dry
+13,35,critical dry
+14,35,critical dry
+15,35,critical dry
+16,35,critical dry
+17,35,critical dry
+18,35,critical dry
+19,35,critical dry
+20,35,critical dry
+21,35,critical dry
+22,35,critical dry
+23,35,critical dry
+24,35,critical dry
+25,35,critical dry
+26,35,critical dry
+27,35,critical dry
+28,35,critical dry
+29,35,critical dry
+30,35,critical dry
+31,35,critical dry
+32,35,critical dry
+33,35,critical dry
+34,35,critical dry
+35,35,critical dry
+36,35,critical dry
+37,35,critical dry
+38,35,critical dry
+39,35,critical dry
+40,35,critical dry
+41,35,critical dry
+42,35,critical dry
+43,35,critical dry
+44,35,critical dry
+45,35,critical dry
+46,35,critical dry
+47,35,critical dry
+0,40,lower fail
+1,40,lower fail
+2,40,lower fail
+3,40,lower fail
+4,40,lower fail
+5,40,lower fail
+6,40,lower fail
+7,40,lower fail
+8,40,lower fail
+9,40,lower fail
+10,40,lower fail
+11,40,lower fail
+12,40,marginal
+13,40,marginal
+14,40,marginal
+15,40,marginal
+16,40,marginal
+17,40,marginal
+18,40,marginal
+19,40,marginal
+20,40,marginal
+21,40,marginal
+22,40,marginal
+23,40,marginal
+24,40,marginal
+25,40,marginal
+26,40,marginal
+27,40,marginal
+28,40,marginal
+29,40,upper fail
+30,40,upper fail
+31,40,upper fail
+32,40,upper fail
+33,40,upper fail
+34,40,upper fail
+35,40,upper fail
+36,40,upper fail
+37,40,upper fail
+38,40,upper fail
+39,40,upper fail
+40,40,upper fail
+41,40,upper fail
+42,40,upper fail
+43,40,upper fail
+44,40,upper fail
+45,40,upper fail
+46,40,upper fail
+47,40,upper fail
+0,45,lower fail
+1,45,lower fail
+2,45,lower fail
+3,45,lower fail
+4,45,lower fail
+5,45,lower fail
+6,45,lower fail
+7,45,lower fail
+8,45,lower fail
+9,45,lower fail
+10,45,lower fail
+11,45,lower fail
+12,45,marginal
+13,45,marginal
+14,45,marginal
+15,45,marginal
+16,45,marginal
+17,45,marginal
+18,45,marginal
+19,45,marginal
+20,45,marginal
+21,45,marginal
+22,45,marginal
+23,45,marginal
+24,45,marginal
+25,45,marginal
+26,45,marginal
+27,45,marginal
+28,45,marginal
+29,45,upper fail
+30,45,upper fail
+31,45,upper fail
+32,45,upper fail
+33,45,upper fail
+34,45,upper fail
+35,45,upper fail
+36,45,upper fail
+37,45,upper fail
+38,45,upper fail
+39,45,upper fail
+40,45,upper fail
+41,45,upper fail
+42,45,upper fail
+43,45,upper fail
+44,45,upper fail
+45,45,upper fail
+46,45,upper fail
+47,45,upper fail
+0,50,lower fail
+1,50,lower fail
+2,50,lower fail
+3,50,lower fail
+4,50,lower fail
+5,50,lower fail
+6,50,lower fail
+7,50,lower fail
+8,50,lower fail
+9,50,lower fail
+10,50,lower fail
+11,50,lower fail
+12,50,marginal
+13,50,marginal
+14,50,marginal
+15,50,marginal
+16,50,marginal
+17,50,marginal
+18,50,marginal
+19,50,marginal
+20,50,marginal
+21,50,marginal
+22,50,marginal
+23,50,marginal
+24,50,marginal
+25,50,marginal
+26,50,marginal
+27,50,marginal
+28,50,marginal
+29,50,upper fail
+30,50,upper fail
+31,50,upper fail
+32,50,upper fail
+33,50,upper fail
+34,50,upper fail
+35,50,upper fail
+36,50,upper fail
+37,50,upper fail
+38,50,upper fail
+39,50,upper fail
+40,50,upper fail
+41,50,upper fail
+42,50,upper fail
+43,50,upper fail
+44,50,upper fail
+45,50,upper fail
+46,50,upper fail
+47,50,upper fail
+0,55,lower fail
+1,55,lower fail
+2,55,lower fail
+3,55,lower fail
+4,55,lower fail
+5,55,lower fail
+6,55,lower fail
+7,55,lower fail
+8,55,lower fail
+9,55,lower fail
+10,55,lower fail
+11,55,lower fail
+12,55,marginal
+13,55,marginal
+14,55,marginal
+15,55,marginal
+16,55,marginal
+17,55,marginal
+18,55,marginal
+19,55,marginal
+20,55,marginal
+21,55,marginal
+22,55,marginal
+23,55,marginal
+24,55,marginal
+25,55,marginal
+26,55,marginal
+27,55,marginal
+28,55,marginal
+29,55,upper fail
+30,55,upper fail
+31,55,upper fail
+32,55,upper fail
+33,55,upper fail
+34,55,upper fail
+35,55,upper fail
+36,55,upper fail
+37,55,upper fail
+38,55,upper fail
+39,55,upper fail
+40,55,upper fail
+41,55,upper fail
+42,55,upper fail
+43,55,upper fail
+44,55,upper fail
+45,55,upper fail
+46,55,upper fail
+47,55,upper fail
+0,60,lower fail
+1,60,lower fail
+2,60,lower fail
+3,60,lower fail
+4,60,lower fail
+5,60,lower fail
+6,60,lower fail
+7,60,lower fail
+8,60,lower fail
+9,60,lower fail
+10,60,lower fail
+11,60,lower fail
+12,60,marginal
+13,60,marginal
+14,60,marginal
+15,60,lower optimal
+16,60,lower optimal
+17,60,lower optimal
+18,60,optimal
+19,60,optimal
+20,60,optimal
+21,60,optimal
+22,60,optimal
+23,60,optimal
+24,60,optimal
+25,60,optimal
+26,60,optimal
+27,60,optimal
+28,60,upper optimal
+29,60,upper optimal
+30,60,upper optimal
+31,60,upper optimal
+32,60,upper marginal
+33,60,upper marginal
+34,60,upper marginal
+35,60,upper marginal
+36,60,upper fail
+37,60,upper fail
+38,60,upper fail
+39,60,upper fail
+40,60,upper fail
+41,60,upper fail
+42,60,upper fail
+43,60,upper fail
+44,60,upper fail
+45,60,upper fail
+46,60,upper fail
+47,60,upper fail
+0,65,lower fail
+1,65,lower fail
+2,65,lower fail
+3,65,lower fail
+4,65,lower fail
+5,65,lower fail
+6,65,lower fail
+7,65,lower fail
+8,65,lower fail
+9,65,lower fail
+10,65,lower fail
+11,65,lower fail
+12,65,marginal
+13,65,marginal
+14,65,marginal
+15,65,lower optimal
+16,65,lower optimal
+17,65,lower optimal
+18,65,optimal
+19,65,optimal
+20,65,optimal
+21,65,optimal
+22,65,optimal
+23,65,optimal
+24,65,optimal
+25,65,optimal
+26,65,optimal
+27,65,optimal
+28,65,upper optimal
+29,65,upper optimal
+30,65,upper optimal
+31,65,upper optimal
+32,65,upper marginal
+33,65,upper marginal
+34,65,upper marginal
+35,65,upper marginal
+36,65,upper fail
+37,65,upper fail
+38,65,upper fail
+39,65,upper fail
+40,65,upper fail
+41,65,upper fail
+42,65,upper fail
+43,65,upper fail
+44,65,upper fail
+45,65,upper fail
+46,65,upper fail
+47,65,upper fail
+0,70,cold and humid
+1,70,cold and humid
+2,70,cold and humid
+3,70,cold and humid
+4,70,cold and humid
+5,70,cold and humid
+6,70,cold and humid
+7,70,cold and humid
+8,70,cold and humid
+9,70,cold and humid
+10,70,cold and humid
+11,70,cold and humid
+12,70,marginal
+13,70,marginal
+14,70,marginal
+15,70,lower optimal
+16,70,lower optimal
+17,70,lower optimal
+18,70,optimal
+19,70,optimal
+20,70,optimal
+21,70,optimal
+22,70,optimal
+23,70,optimal
+24,70,optimal
+25,70,optimal
+26,70,optimal
+27,70,optimal
+28,70,upper optimal
+29,70,upper optimal
+30,70,upper optimal
+31,70,upper optimal
+32,70,upper marginal
+33,70,upper marginal
+34,70,upper marginal
+35,70,upper marginal
+36,70,upper fail
+37,70,upper fail
+38,70,upper fail
+39,70,upper fail
+40,70,upper fail
+41,70,upper fail
+42,70,upper fail
+43,70,upper fail
+44,70,upper fail
+45,70,upper fail
+46,70,upper fail
+47,70,upper fail
+0,75,cold and humid
+1,75,cold and humid
+2,75,cold and humid
+3,75,cold and humid
+4,75,cold and humid
+5,75,cold and humid
+6,75,cold and humid
+7,75,cold and humid
+8,75,cold and humid
+9,75,cold and humid
+10,75,cold and humid
+11,75,cold and humid
+12,75,marginal
+13,75,marginal
+14,75,marginal
+15,75,lower optimal
+16,75,lower optimal
+17,75,lower optimal
+18,75,optimal
+19,75,optimal
+20,75,optimal
+21,75,optimal
+22,75,optimal
+23,75,optimal
+24,75,optimal
+25,75,optimal
+26,75,optimal
+27,75,optimal
+28,75,upper optimal
+29,75,upper optimal
+30,75,upper optimal
+31,75,upper optimal
+32,75,upper marginal
+33,75,upper marginal
+34,75,upper marginal
+35,75,upper marginal
+36,75,upper fail
+37,75,upper fail
+38,75,upper fail
+39,75,upper fail
+40,75,upper fail
+41,75,upper fail
+42,75,upper fail
+43,75,upper fail
+44,75,upper fail
+45,75,upper fail
+46,75,upper fail
+47,75,upper fail
+0,80,cold and humid
+1,80,cold and humid
+2,80,cold and humid
+3,80,cold and humid
+4,80,cold and humid
+5,80,cold and humid
+6,80,cold and humid
+7,80,cold and humid
+8,80,cold and humid
+9,80,cold and humid
+10,80,cold and humid
+11,80,cold and humid
+12,80,marginal
+13,80,marginal
+14,80,marginal
+15,80,lower optimal
+16,80,lower optimal
+17,80,lower optimal
+18,80,optimal
+19,80,optimal
+20,80,optimal
+21,80,optimal
+22,80,optimal
+23,80,optimal
+24,80,optimal
+25,80,optimal
+26,80,optimal
+27,80,optimal
+28,80,upper optimal
+29,80,upper optimal
+30,80,upper optimal
+31,80,upper optimal
+32,80,upper marginal
+33,80,upper marginal
+34,80,upper marginal
+35,80,upper marginal
+36,80,upper fail
+37,80,upper fail
+38,80,upper fail
+39,80,upper fail
+40,80,upper fail
+41,80,upper fail
+42,80,upper fail
+43,80,upper fail
+44,80,upper fail
+45,80,upper fail
+46,80,upper fail
+47,80,upper fail
+0,85,cold and humid
+1,85,cold and humid
+2,85,cold and humid
+3,85,cold and humid
+4,85,cold and humid
+5,85,cold and humid
+6,85,cold and humid
+7,85,cold and humid
+8,85,cold and humid
+9,85,cold and humid
+10,85,cold and humid
+11,85,cold and humid
+12,85,marginal
+13,85,marginal
+14,85,marginal
+15,85,lower optimal
+16,85,lower optimal
+17,85,lower optimal
+18,85,optimal
+19,85,optimal
+20,85,optimal
+21,85,optimal
+22,85,optimal
+23,85,optimal
+24,85,optimal
+25,85,optimal
+26,85,optimal
+27,85,optimal
+28,85,upper optimal
+29,85,upper optimal
+30,85,upper optimal
+31,85,upper optimal
+32,85,upper marginal
+33,85,upper marginal
+34,85,upper marginal
+35,85,upper marginal
+36,85,upper fail
+37,85,upper fail
+38,85,upper fail
+39,85,upper fail
+40,85,upper fail
+41,85,upper fail
+42,85,upper fail
+43,85,upper fail
+44,85,upper fail
+45,85,upper fail
+46,85,upper fail
+47,85,upper fail
+0,90,cold and humid
+1,90,cold and humid
+2,90,cold and humid
+3,90,cold and humid
+4,90,cold and humid
+5,90,cold and humid
+6,90,cold and humid
+7,90,cold and humid
+8,90,cold and humid
+9,90,cold and humid
+10,90,cold and humid
+11,90,cold and humid
+12,90,marginal
+13,90,marginal
+14,90,marginal
+15,90,lower optimal
+16,90,lower optimal
+17,90,lower optimal
+18,90,optimal
+19,90,optimal
+20,90,optimal
+21,90,optimal
+22,90,optimal
+23,90,optimal
+24,90,optimal
+25,90,optimal
+26,90,optimal
+27,90,optimal
+28,90,upper optimal
+29,90,upper optimal
+30,90,upper optimal
+31,90,upper optimal
+32,90,upper marginal
+33,90,upper marginal
+34,90,upper marginal
+35,90,upper marginal
+36,90,upper fail
+37,90,upper fail
+38,90,upper fail
+39,90,upper fail
+40,90,upper fail
+41,90,upper fail
+42,90,upper fail
+43,90,upper fail
+44,90,upper fail
+45,90,upper fail
+46,90,upper fail
+47,90,upper fail
+0,95,cold and humid
+1,95,cold and humid
+2,95,cold and humid
+3,95,cold and humid
+4,95,cold and humid
+5,95,cold and humid
+6,95,cold and humid
+7,95,cold and humid
+8,95,cold and humid
+9,95,cold and humid
+10,95,cold and humid
+11,95,cold and humid
+12,95,marginal
+13,95,marginal
+14,95,marginal
+15,95,lower optimal
+16,95,lower optimal
+17,95,lower optimal
+18,95,optimal
+19,95,optimal
+20,95,optimal
+21,95,optimal
+22,95,optimal
+23,95,optimal
+24,95,optimal
+25,95,optimal
+26,95,optimal
+27,95,optimal
+28,95,upper optimal
+29,95,upper optimal
+30,95,upper optimal
+31,95,upper optimal
+32,95,upper marginal
+33,95,upper marginal
+34,95,upper marginal
+35,95,upper marginal
+36,95,upper fail
+37,95,upper fail
+38,95,upper fail
+39,95,upper fail
+40,95,upper fail
+41,95,upper fail
+42,95,upper fail
+43,95,upper fail
+44,95,upper fail
+45,95,upper fail
+46,95,upper fail
+47,95,upper fail
+0,100,cold and humid
+1,100,cold and humid
+2,100,cold and humid
+3,100,cold and humid
+4,100,cold and humid
+5,100,cold and humid
+6,100,cold and humid
+7,100,cold and humid
+8,100,cold and humid
+9,100,cold and humid
+10,100,marginal
+11,100,marginal
+12,100,marginal
+13,100,marginal
+14,100,marginal
+15,100,lower optimal
+16,100,lower optimal
+17,100,lower optimal
+18,100,optimal
+19,100,optimal
+20,100,optimal
+21,100,optimal
+22,100,optimal
+23,100,optimal
+24,100,optimal
+25,100,optimal
+26,100,optimal
+27,100,optimal
+28,100,upper optimal
+29,100,upper optimal
+30,100,upper optimal
+31,100,upper optimal
+32,100,upper marginal
+33,100,upper marginal
+34,100,upper marginal
+35,100,upper marginal
+36,100,upper fail
+37,100,upper fail
+38,100,upper fail
+39,100,upper fail
+40,100,upper fail
+41,100,upper fail
+42,100,upper fail
+43,100,upper fail
+44,100,upper fail
+45,100,upper fail
+46,100,upper fail
+47,100,upper fail
+22,54.2,marginal
+22,58,marginal
